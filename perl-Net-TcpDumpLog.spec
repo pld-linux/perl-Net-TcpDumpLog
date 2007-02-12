@@ -2,7 +2,7 @@
 %define		pdir	Net
 %define		pnam	TcpDumpLog
 Summary:	Net::TcpDumpLog Perl module
-Summary(pl.UTF-8):   Moduł Perla NET::TcpDumpLog
+Summary(pl.UTF-8):	Moduł Perla NET::TcpDumpLog
 Name:		perl-Net-TcpDumpLog
 Version:	0.11
 Release:	1
