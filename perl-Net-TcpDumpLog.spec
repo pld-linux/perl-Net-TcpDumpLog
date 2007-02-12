@@ -2,7 +2,7 @@
 %define		pdir	Net
 %define		pnam	TcpDumpLog
 Summary:	Net::TcpDumpLog Perl module
-Summary(pl):	Modu≥ Perla NET::TcpDumpLog
+Summary(pl.UTF-8):   Modu≈Ç Perla NET::TcpDumpLog
 Name:		perl-Net-TcpDumpLog
 Version:	0.11
 Release:	1
@@ -21,8 +21,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Net::TcpDumpLog - Module for read the data and headers from tcpdump
 logs.
 
-%description -l pl
-Net::TcpDumpLog - modu≥ do odczytu danych i nag≥ÛwkÛw z logÛw
+%description -l pl.UTF-8
+Net::TcpDumpLog - modu≈Ç do odczytu danych i nag≈Ç√≥wk√≥w z log√≥w
 tcpdumpa.
 
 %prep
