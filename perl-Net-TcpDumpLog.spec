@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Net
 %define		pnam	TcpDumpLog
 Summary:	Net::TcpDumpLog Perl module
